@@ -2,5 +2,4 @@
 
 Modelo de página feito com React JS. Pode ser acessado no link abaixo:
 
-link
-
+https://layout-page-react.herokuapp.com/
